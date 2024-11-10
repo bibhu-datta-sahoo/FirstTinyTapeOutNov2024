@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "TuanUbNov2024"      # Project title
+  title:        "tt_um_TuanUbNov2024"      # Project title
   author:       "bibhu"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "SAR ADC"      # One line description of what your project does
