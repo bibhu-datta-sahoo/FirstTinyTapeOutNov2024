@@ -3,7 +3,7 @@ project:
   title:        "tt_um_TuanUbNov2024"      # Project title
   author:       "bibhu"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "SAR ADC"      # One line description of what your project does
+  description:  "tt_um_SAR ADC"      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     10       # Clock frequency in Hz (or 0 if not applicable)
 
